@@ -55,6 +55,7 @@ Buka browser dan akses **`http://localhost:8501/`** untuk melihat dashboard.
 1. **Upload proyek ke GitHub.**
 2. **Buka [Streamlit Cloud](https://share.streamlit.io/) dan deploy dari repository GitHub.**
 3. **Simpan link dashboard di file `url.txt`.**
+4. https://submission-sakti-codingcamp2025.streamlit.app/
 
 ## 📌 Catatan
 
